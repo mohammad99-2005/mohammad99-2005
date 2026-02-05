@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-
 <h1>Hi there, I'm Mohammad Khaldon 👋</h1>
 
 <p>
